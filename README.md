@@ -1,7 +1,7 @@
 
 ## Temp UI for token based studies
 
-![resim](https://github.com/user-attachments/assets/3c394cfe-0a8e-45f8-9305-b30c92dc6ead)
+![PyGame UI](https://github.com/user-attachments/assets/3c394cfe-0a8e-45f8-9305-b30c92dc6ead)
 
 # entropix
 Entropy Based Sampling and Parallel CoT Decoding
